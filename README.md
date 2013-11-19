@@ -3,7 +3,7 @@ coffee_short_black
 
 A repository for windows command file that makes allows easy compilation of coffeescript in Notepad++. It is distributed under MIT licence. 
 
-First you will need the node.js coffee script installer for windows.  Steps for obtaining this are described at http://www.davidarno.org/2012/02/02/beginners-guide-to-using-coffeescript-on-windows-with-node.js/
+First you will need the node.js coffeescript compiler for windows.  Steps for obtaining this are described at http://www.davidarno.org/2012/02/02/beginners-guide-to-using-coffeescript-on-windows-with-node.js/
 
 In order to install the command file, please follow these steps.
 
