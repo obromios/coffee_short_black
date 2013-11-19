@@ -14,7 +14,11 @@ In order to install the command file, please follow these steps.
 5. Use the file browser to navigate to the short-black.bat file and select it.
 6. In the file selection menu, click on the file name, go to the end, and add "$(FULL_CURRENT_PATH)" "<temp path>" where <temp path> is the full path to the temporary directory.
 7. Using the examples above, the line would now read
-       c:\Program Files\coffee_short_black "$(FULL_CURRENT_PATH)" "c:\temp"
+
+   ```
+   c:\Program Files\coffee_short_black "$(FULL_CURRENT_PATH)" "c:\temp"
+   ```
+	   
 8. Click on "Save..." and save with a name "coffee_short_black" and choose a convenient short cut eg. ctrl/shift C.
 9. Now open a coffee script file in notepad, and either use your short cut, or go to the Run menu, and click on the coffee_short_black option towards the bottom of the dropdown.
 10. If there is a compile error, then a message will occur in a new dos window. Press any key in the dos window to dismiss the message.
